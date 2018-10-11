@@ -1,0 +1,21 @@
+{
+  "name": "red-jay",
+  "version": "1.0.0",
+  "description": "Customized Server Logger",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "keywords": [
+    "Server",
+    "Logger",
+    "Colored",
+    "Log"
+  ],
+  "author": "Jexulie",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {}
+}
