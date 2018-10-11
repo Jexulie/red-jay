@@ -1,6 +1,6 @@
 {
   "name": "red-jay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customized Server Logger",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,5 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1"
-  },
-  "devDependencies": {}
+  }
 }
