@@ -25,7 +25,6 @@ redJay.prototype.dev = function(req, res, next){
     var end;
     res.on('finish', () => { 
         end = new Date().getTime();
-        console.log(end, start , end - start)
         const REQUEST = {
             response: (end - start),
             content: req.headers['content-length'],
