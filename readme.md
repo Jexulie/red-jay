@@ -9,11 +9,12 @@ Tiny Customized Server Logger
 ```
 then
 ```javascript
-    var redjay = require('red-jay);
+    var redjay = require('red-jay');
 
     // etc...
 
-    app.use(redjay.prod); // or
+    app.use(redjay.prod); 
+    // or
     app.use(redjay.dev);
 ```
 ### What it Logs
